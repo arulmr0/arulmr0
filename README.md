@@ -1,4 +1,4 @@
-## Hi 👋, I am Arulmurugan RAMU 
+## Hi 👋, I am Arulmurugan Ramu 
 ----------------------------------------------------------------------------------------------------
 
 - 🔭 I’m currently working on LLM anD GenAI

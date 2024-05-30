@@ -1,7 +1,7 @@
 ## Hi 👋, I am Arulmurugan Ramu 
 
 
-- 🔭 I’m currently working on LLM anD GenAI
+- 🔭 I’m currently working on LLM and GenAI
 - 🌱 I’m currently learning LLMA
 - 👯 I’m looking to collaborate on LangChain
 - 🤔 I’m looking for help with  all AI releated projects

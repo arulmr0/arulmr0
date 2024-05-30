@@ -7,5 +7,4 @@
 - 🤔 I’m looking for help with  all AI releated projects
 - 📫 How to reach me: arulmr@gmail.com
 
-
-https://github.com/rajsecrets#languages-and-tools
+# Languages and Tools:

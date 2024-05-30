@@ -1,5 +1,5 @@
 ## Hi 👋, I am Arulmurugan Ramu 
-----------------------------------------------------------------------------------------------------
+
 
 - 🔭 I’m currently working on LLM anD GenAI
 - 🌱 I’m currently learning LLMA
